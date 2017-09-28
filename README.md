@@ -1,0 +1,1 @@
+Resolução do [problema 1](https://projecteuler.net/problem=1) do Project Euler, proposto pelo curso [The Odin Project](https://www.theodinproject.com) para o primeiro contato com Javascript.
