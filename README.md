@@ -1,1 +1,1 @@
-Resolução do [problema 1](https://projecteuler.net/problem=1) do Project Euler, proposto pelo curso [The Odin Project](https://www.theodinproject.com) para o primeiro contato com Javascript.
+[ResoluÃ§Ã£o](https://ocanabrava.github.io/problem_1/) do [problema 1](https://projecteuler.net/problem=1) do Project Euler, proposto pelo curso [The Odin Project](https://www.theodinproject.com) para o primeiro contato com Javascript.
